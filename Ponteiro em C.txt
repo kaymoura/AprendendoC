@@ -1,0 +1,8 @@
+Ponteiro em C
+
+Conceitos
+
+Endereço de memoria adiciona o &(e comercial) em frente a variavel
+
+Nas funções apos sua chamada ultilizando o metodo de manda o endereço de memoria é necessario que a funcao receba endereco de memoria que aponta para tipo inteirosendo assim obrigatorio adicionar * depois da identificação do tipo da variavel.
+

@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main()
+{
+    int ponteiro;
+    
+    printf("Digite um valor inteiro qualquer.\n");
+    scanf("%d", &ponteiro);
+    // ler com scanf
+    
+    chama funcao 
+    
+    printf("O valor da variável ponteiro é = %d.\n", ponteiro);
+    printf("Endereço da memoria da variável ponteiro é = %d.\n", &ponteiro);
+    return 0;
+}
