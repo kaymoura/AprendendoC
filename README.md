@@ -23,4 +23,6 @@ Exercicio 1 - Crie um programa que leia uma variavel inteira do teclado e defina
 
 ## Referência para auxilia o entendimento:
 
- [Clique aqui](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) para acessar! https://www.cs.usfca.edu/~galles/visualization/QueueArray.html
+  - http://docente.ifsc.edu.br/vilson.junior/ed/04_Listas_Filas_Pilhas.pdf
+  - https://www.cos.ufrj.br/~rfarias/cos121/filas.html
+  - [Clique aqui](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) para acessar! https://www.cs.usfca.edu/~galles/visualization/QueueArray.html
