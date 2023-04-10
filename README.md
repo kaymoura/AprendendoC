@@ -12,7 +12,7 @@ Aula 2 - Funções, Endereço de memória, Ponteiro
 Aula 3 - Acentuação em C, Fila
 
 
-Aula 4 - Continuação da aula sobre Fila 
+Aula 4 - Continuação da aula sobre Fila - com desafio de fazer a fila "andar" para a esquerda
 
 
 
