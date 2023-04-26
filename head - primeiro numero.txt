@@ -1,0 +1,15 @@
+head - primeiro numero
+tail - tamanho da fila
+
+for(int i=0; i < TAMFILA; i++)
+    {
+		fila[i] = head;
+		head = aux;
+        fila[i]=aux;
+    }
+
+
+tail = 4 (1 1 2 3)
+dequeue = (0 1 2 3)
+
+tail < TAMFILA

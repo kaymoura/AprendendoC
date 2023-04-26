@@ -29,9 +29,18 @@ TAIL - //CAUDA, INDICA QUANTOS ELEMENTOS TEM NA FILA
 
 ONDE A FILA É APLICADA?
 EM QUALQUER SITUAÇÃO ONDE TEMOS QUE ORGANIZAR O ATENDIMENTO DE ELEMENTOS. E-MAILS, FILA DE IMPRESSÃO, LISTA DE COMPRAS, PAGAMENTOS ETC...
-
+Call center, 
 
 
 Pluggin Source code formatter Astyle
 
  
+
+
+head incrementa quando é chamado
+
+tail é incrementado ao chegar pessoas(dados) --> Tamanho da fila 
+
+clear coloca 0 em tudo 
+
+quando a fila ta vazia head e tail vai fica igual

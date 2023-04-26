@@ -1,0 +1,35 @@
+Pilha - STACK
+Assunto prova
+
+Onde usar: 
+Compiladores e interpretadores
+Historico de navegação
+CTRL+Z
+
+FILO = FIRST IN / LAST OUT
+LIFO = LAST IN / FIRST OUT
+
+
+---
+|7| -> Topo
+---
+|6|
+---
+|5|
+---
+|4|
+---
+|3|
+---
+|2|
+---
+|1|
+
+Os dados são inseridos sempre no topo um elemento é inserido ele ocupa o topo da pilha.
+- Nós só temos acesso ao elemento que está no topo 
+- O processo de INSERIR um elemento é chamado PUSH
+- O processo de REMOVER um elemento é chamado POP
+(Lembrando que só removemos o topo)
+
+
+numero do topo é numero na onde ta vazio na pilha
