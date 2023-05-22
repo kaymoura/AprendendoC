@@ -21,6 +21,15 @@ Aula 5 - Introdução a pilha
 Aula 6 - Continuação da aula sobre pilha e implementação de vizualização personalizada
 
 
+Aula 7 - Desafio fazer código identificar se expressão matematica é válida ou inválida. Com parenteses, colchetes e chaves
+
+
+Aula 8 - Estrutura(caixa) - Struct
+
+
+Aula 9 - Lista Encadeada
+
+
 ## Exercicios / Desafios
 
 Exercicio 1 - Crie um programa que leia uma variavel inteira do teclado e defina um ponteiro que aponte para essa variavel
